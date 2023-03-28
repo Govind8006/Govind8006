@@ -32,4 +32,4 @@
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Govind8006&theme=material-palenight&hide_border=true)](https://github.com/harryy0112/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Govind8006&theme=material-palenight&hide_border=true)](https://github.com/Govind8006/github-readme-activity-graph)
