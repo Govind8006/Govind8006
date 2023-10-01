@@ -22,9 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind8006&layout=compact&theme=dark&hide_border=true)](https://github.com/Govind8006/github-readme-stats)
 
-<h2>⚡ Github Stats :tongue:</h2>
 
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govind8006&show_icons=true&theme=radical&hide_border=true)
 
 <h2>⚡Streaks 👇</h2>
 
